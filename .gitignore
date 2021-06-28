@@ -1,0 +1,5 @@
+# Ignore Node Package Manager Cache And Storage + Svelte Output
+**/*/node_modules/
+svelte/public/build/
+
+.DS_Store
