@@ -6,12 +6,12 @@ This is a mono-repository for everything that relates to the design of the `mono
 
 ## Content
 
-The repository is currently split into two main directories `/graphics` and `/svelte`
+The repository is currently split into two main directories `/static` and `/dynamic`
 
-### `/graphics`
+### `/static`
 
-The `/graphics` directory contains various digital art designs, especially those that are non-responsive. It also might be renamed soon.
+This directory contains static imagery like logos or just the general branding of products and the organization itself.
 
-### `/svelte`
+### `/dynamic`
 
-This folder holds everything related to svelte. That is mostly reponsive web components.
+Here things like frontend framework components can be found. Although it is questioned, if there will be a consistent style throughout all webpages.
