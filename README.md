@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a mono-repository for everything that relates to the design of the `monocircuit` organization. That is, designs like logos or banners, but also particular website components.
+This is a mono-repository for everything that relates to the design of the @monocircuit organization. That is, designs like logos or banners, but also particular website components.
 
 ## Content
 
